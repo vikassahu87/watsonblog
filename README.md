@@ -1,0 +1,2 @@
+# djangoBlog
+First python blog
